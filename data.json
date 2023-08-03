@@ -1,10 +1,10 @@
 {
   "translation": {
     "mod_data": {
-      "1": "https://github.com/burningtnt/HMCL-Snapshot-Update/raw/master/translation/mod_data/v1.txt"
+      "1": "https://github.com/burningtnt/HMCL-Resource-Update/raw/master/translation/mod_data/v1.txt"
     },
     "modpack_data": {
-      "1": "https://github.com/burningtnt/HMCL-Snapshot-Update/raw/master/translation/modpack_data/v1.txt"
+      "1": "https://github.com/burningtnt/HMCL-Resource-Update/raw/master/translation/modpack_data/v1.txt"
     }
   }
 }
